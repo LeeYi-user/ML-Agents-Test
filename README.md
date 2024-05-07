@@ -1,3 +1,3 @@
 # ML-Agents-Test
 
-Just a school project.
+Just a prototype.
